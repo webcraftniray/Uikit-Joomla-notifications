@@ -21,7 +21,7 @@
     // check if there is a system message - if not simply return false and go about your business.
       if (!empty(JFactory::getApplication()->getMessageQueue())) {
 
-              // ok, great. We have a system message
+              // ok, great. We have at least one system message
 
               //first of all lets go to the good people at CloudFlare and get UIKit. Please change the version number as you wish.
               $template->addStyleSheet('https://cdnjs.cloudflare.com/ajax/libs/uikit/2.26.3/css/uikit.min.css', 'text/css');
