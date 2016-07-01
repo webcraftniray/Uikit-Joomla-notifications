@@ -1,10 +1,9 @@
 <?php
 
-
 /**
  * @author		          Ray Lawlor - Elm House Creative http://www.elmhousecreative.com
  * @copyright           Copyright (C) Ray Lawlor - Elm House Creative http://www.elmhousecreative.com
- * @license		          http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+ * @license		          http://www.gnu.org/licenses/gpl-3.0.html GNU/GPLv3 only
  */
 // no direct access
 
