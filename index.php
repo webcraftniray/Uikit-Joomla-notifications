@@ -1,5 +1,13 @@
 <?php
 
+
+/**
+ * @author		          Ray Lawlor - Elm House Creative http://www.elmhousecreative.com
+ * @copyright           Copyright (C) Ray Lawlor - Elm House Creative http://www.elmhousecreative.com
+ * @license		          http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+ */
+// no direct access
+
 // This should replace any instance of <jdoc:include type="message" /> in your template.
   echo renderError($this);
 
